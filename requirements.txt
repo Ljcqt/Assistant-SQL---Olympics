@@ -1,0 +1,8 @@
+streamlit
+langchain-community
+langchain-ollama
+langchain-core
+python-dotenv
+psycopg2-binary
+pandas
+sqlalchemy

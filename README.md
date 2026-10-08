@@ -8,7 +8,7 @@ Une interface développée avec **Streamlit** et **LangChain** qui traduit des q
 - Connexion PostgreSQL : Exécution directe et sécurisée des requêtes sur la base de données.
 - Affichage dynamique : Les résultats SQL sont automatiquement formatés en tableaux interactifs grâce à Pandas.
 
-## 🛠 Prérequis
+##  Prérequis
 - Python 3.8+
 - [Ollama](https://ollama.com/) installé localement.
 - Une base de données PostgreSQL.
